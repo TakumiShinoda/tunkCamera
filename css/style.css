@@ -1,0 +1,25 @@
+body{
+	-webkit-touch-callout: none; 
+	-webkit-user-select: none;
+	background-color: #00BFFF;
+}
+
+.center{
+	text-align: center;
+}
+
+.buttonStyleA{
+	width: 100px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 1.4em;
+	background-color: #98FB98;
+	border-radius: 20px;
+}
+
+.buttonStyleB{
+	margin: 0 auto;
+	font-size: 1.4em;
+	background-color: #98FB98;
+	border-radius: 20px;
+}
